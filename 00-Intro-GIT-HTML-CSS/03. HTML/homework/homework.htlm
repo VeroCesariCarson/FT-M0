@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<htlm>
+    <head>
+        <title>Mi página HTLM Verónica Cesari Carson</title>
+        <link rel="stylesheet" href="styles.css"></link>
+
+    </head>
+    <body>
+       
+        <div class="divClass">
+            <h1>Verónica</h1>
+            <h3>Henry</h3>
+            <H4>Tarea de HTLM y CSS</H4>
+        </div>
+        <div class="divClass">
+            <span id="spanId">Pizza</span>
+            <a href="https://guerrin.com.ar/">Guerrin</a>
+        </div>
+        <div id="thirdDiv">
+            <ul>
+                <li>
+                    <img src="https://www.saborusa.com/wp-content/uploads/2019/10/Animate-a-disfrutar-una-deliciosa-pizza-de-salchicha-Foto-destacada.png" alt="imagen de pizza">
+                </li>
+                <li>
+                    <img src="https://i.blogs.es/fff4ca/pizzas/1366_2000.jpg" alt="imagen de pizza">
+                </li>
+            </ul>
+        </div>
+    </body>
+</htlm>
